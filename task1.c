@@ -1,6 +1,6 @@
 #include <stdio.h>
-
 int main() { 
+
  float batarya_sicakligi;
  char kapi_durumu;
  int sarj_yuzdesi; 
@@ -17,7 +17,7 @@ scanf("%d", &fren_pedali);
 
 if(batarya_sicakligi<=60 && sarj_yuzdesi>10 && kapi_durumu=='k' && fren_pedali==1)
 {
- printf("\nBASARILI: SISTEM HAZIR, MOTOR BASLATILI23YOR");
+ printf("\nBASARILI: SISTEM HAZIR, MOTOR BASLATILILIYOR");
 
 }
 
