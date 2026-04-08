@@ -1,5 +1,5 @@
 #include <stdio.h>
-//asdasdasd değişiklik deneme
+
 int main() { 
  float batarya_sicakligi;
  char kapi_durumu;
